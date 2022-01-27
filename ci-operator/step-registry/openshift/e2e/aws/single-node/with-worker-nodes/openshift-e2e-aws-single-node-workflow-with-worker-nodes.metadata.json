@@ -1,0 +1,8 @@
+{
+	"path": "openshift/e2e/aws/single-node/with-worker-nodes/openshift-e2e-aws-single-node-workflow-with-worker-nodes.yaml",
+	"owners": {
+		"approvers": [
+			"single-node"
+		]
+	}
+}
